@@ -1,0 +1,36 @@
+{
+  "id": "test-request-id",
+  "publisher": {
+    "siteid": "site-id",
+    "url": "criteo.com",
+    "networkid": 78910
+  },
+  "user": {
+    "ip": "91.199.242.236",
+    "ua": "random user agent",
+    "deviceos": "android",
+    "deviceidtype": "gaid"
+  },
+  "gdprconsent": {},
+  "slots": [
+    {
+      "slotid": "00000000-0000-0000-00000000",
+      "impid": "test-imp-id",
+      "zoneid": 123456,
+      "networkid": 78910,
+      "sizes": [
+        "250x250"
+      ]
+    }
+  ],
+  "eids": [
+    {
+      "source": "criteo.com",
+      "uids": [
+        {
+          "id": "criteo-eid"
+        }
+      ]
+    }
+  ]
+}

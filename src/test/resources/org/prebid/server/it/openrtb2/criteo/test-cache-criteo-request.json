@@ -1,0 +1,21 @@
+{
+  "puts": [
+    {
+      "type": "json",
+      "value": {
+        "id": "tid",
+        "impid": "imp-id-001",
+        "price": 0.5,
+        "adm": "<blink>Remember this: https://www.google.com/search?q=blink+tag ?</blink>",
+        "crid": "1234567890",
+        "w": 300,
+        "h": 300,
+        "exp": 30,
+        "ext": {
+          "origbidcpm": 0.5
+        }
+      },
+      "expiry": 30
+    }
+  ]
+}

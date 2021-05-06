@@ -1,0 +1,17 @@
+{
+  "currency": "USD",
+  "bids": [
+    {
+      "bid": {
+        "id": "test-slot-id",
+        "impid": "test-imp-id",
+        "price": 0.1,
+        "crid": "creative-123",
+        "adm": "<iframe id='789abc' name='789abc' src='http://creative-url.criteo.com'></iframe>",
+        "w": 300,
+        "h": 250
+      },
+      "type": "banner"
+    }
+  ]
+}
